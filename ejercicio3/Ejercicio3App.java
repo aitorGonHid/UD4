@@ -1,4 +1,3 @@
-package ejercicio3;
 
 public class Ejercicio3App {
 	
@@ -12,12 +11,12 @@ public class Ejercicio3App {
 		System.out.println("El valor de las variables: ");
 		System.out.println("x=" + x + ", y=" + y + ", n=" + n + " y m=" + m + "\n");
 		System.out.println("La suma  X + Y: " + (x+y));
-		System.out.println("La diferencia  X –Y: " + (x-y));
+		System.out.println("La diferencia  X ï¿½Y: " + (x-y));
 		System.out.println("El producto  X * Y: " + (x*y));
 		System.out.println("El cociente  X / Y: " + (x/y));
 		System.out.println("El resto  X % Y: " + (x%y));
 		System.out.println("La suma  N + M: " + (n+m));
-		System.out.println("La diferencia  N –M: " + (n-m));
+		System.out.println("La diferencia  N ï¿½M: " + (n-m));
 		System.out.println("El producto  N * M: " + (n*m));
 		System.out.println("El cociente  N / M: " + (n/m));
 		System.out.println("El resto  N % M: " + (n%m));
