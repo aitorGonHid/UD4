@@ -1,3 +1,5 @@
+package UD4.ejercicio5;
+
 
 public class Ejercicio5App {
 
@@ -19,11 +21,15 @@ public class Ejercicio5App {
 		
 		//Asignaciones
 		b=c;
+		System.out.println("b: "+b+" c: "+c);
 		c=a;
+		System.out.println("c "+c+" a: "+a);
 		a=d;
+		System.out.println("a: "+a+" d: "+d);
 		d=b;
+		System.out.println("d: "+d+" b: "+b);
 		
-		System.out.println("Valores finales: ");
+		System.out.println("\nValores finales: ");
 		System.out.println("a= "+a+", b= "+b+", c= "+c+" y d= "+d);
 		
 
